@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    width: 100%;
+    
+    margin-top: 20px;
+    
+}
+
+.border {
+  
+    font-size:18px;
+    border-radius: 999px;
+   
+    background-color: white;
+  
+   text-align: center;
+    height: 40px;
+    box-shadow: 0 5px 2px #666;
+    
+    
+    
+}
+
+    
+.btn {
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    border-radius: 999px;
+   
+    background-color: rgb(133, 129, 129);
+    color: white;
+    width: 60px;
+    height: 40px;
+    box-shadow: 0 5px 2px #666;
+   
+  
+}
+
+.btn:hover {
+    color: #69C8ECFF;
+   ;
+    transition: 1s;
+    cursor: pointer;
+}

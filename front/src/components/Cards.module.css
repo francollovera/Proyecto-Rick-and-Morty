@@ -1,0 +1,16 @@
+.CardContainer {
+  display: flex;
+  margin-top: 60px;
+  margin-bottom: 5%;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.CardContainer .card {
+  flex-basis: calc(25% - 20px); /* Ajusta este valor según sea necesario */
+  margin: 10px;
+}
+
+
