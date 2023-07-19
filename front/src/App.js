@@ -8,6 +8,7 @@ import Detail from './components/Detail'
 import Form from './components/Form/Form'
 import Favorites from './components/Favorites'
 import Swal from 'sweetalert2';
+import axios from 'axios';
 
 
 function App() {
